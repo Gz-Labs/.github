@@ -1,9 +1,9 @@
 # GZ Labs
-
+Learning fullstack, building real.
 > Personal tech space by Gabriel Ferreira — backend-focused, fullstack in progress.
 
 GZ Labs is a personal label to organize and present my technical work.  
-Not a company. Not a lab. Just clean, focused code — built to learn, improve, and share.
+Just clean, focused code — built to learn, improve, and share.
 
 ### 🔧 Focus
 - Java + Spring Boot
